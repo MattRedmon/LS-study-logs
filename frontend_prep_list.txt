@@ -1,0 +1,27 @@
+
+1  INTRO- complete
+2  UNDERSTANDING JOB ROLES- complete
+3  BOOK: INTRO TO COMMAND LINE- complete 02/11/17
+4  BOOK: GIT AND GITHUB- complete 02/17/17
+5  INSTALL CHROME- complete
+6  SELECT AN EDITOR- complete
+7  GETTING STARTED WITH HTML- complete
+8  STYLING WITH CSS- complete
+9  LEARN TO CODE HTML AND CSS- Shay Howe - complete
+  Lesson 1- 02/24/17
+  Lesson 2- 02/24/17
+  Lesson 3- 02/25/17
+  lesson 4- 02/25/17
+  lesson 5- 02/25/17
+  lesson 6- 03/01/17
+  lesson 7- 03/03/17
+  lesson 8- 03/04/17
+  lesson 9- 03/04/17
+  lesson 10-03/05/17
+  lesson 11- 03/05/17 ** NEED TO REREAD **
+  lesson 12- 03/05/17
+10 PROJECT: PEAR & BACON GRILLED CHEESE(1)- 03/05/17
+11 PROJECT: PEAR & BACON GRILLED CHEESE(2)- 03/05/17
+12 PROJECT: PEAR & BACON GRILLED CHEESE(3)- 03/05/17
+13 FINAL CHECKLIST-complete
+14 ASSESSMENT-- appears will do one for backend which will take care of this one. 

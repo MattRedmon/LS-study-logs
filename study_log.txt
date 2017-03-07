@@ -1,0 +1,94 @@
+
+03/05/17- Ruby Basics-section 10 Strings
+Shay How- Lesson 10,11 and 12
+
+03/04/17- Ruby Basics- conditionals
+Shay Howe- Lesson 8 and 9
+
+03/03/17- Ruby Basics- Methods and Return sections
+
+03/02/17- Ruby Basics-Loops 2
+Shay Howe -Lesson 7
+
+03/01/17- Ruby Basics-Loops 1
+Shay Howe-Lesson 6
+
+02/28/17- Ruby Basics-User Input
+Shay Howe-Lesson 6
+
+02/25/17- Shay Howe-Lesson 3, 4, 5
+
+02/24/17- Shay Howe-Lesson 1 + 2
+
+02/23/17-
+"Getting started with HTML" & "Styling with CSS"
+
+02/19/17-
+"Learn to Program" by Chris Pine - started re-reading, verified problems complete
+  Chap 2 Numbers - COMPLETE
+  Chap 3 Letters - COMPLETE
+  Chap 4 Variable - COMPLETE
+  Chap 5 Mixing it up- COMPLETE
+  Chap 6 More about methods - COMPLETE
+  Chap 7 Flow control - COMPLETE
+  Chap 8 Arrays and Iterators- COMPLETE
+  Chap 9 Writing you own methods -
+  Chap 10 Nothing new to learn -
+  Chap 11 Reading and Writing -
+  Chap 12 New Classes of Objects -
+  Chap 13 Creating new classes -
+  Chap 14 Blocks and Procs -
+
+
+02/18/17-
+Continued working Ruby Basics exercises
+
+02/17/17-
+Continued working Ruby Basics exercises
+
+02/17/17-
+Second run through LS "Git & Github" book
+SECTION 1 => *COMPLETE*
+SECTION 2 - WORKING LOCALLY
+  Chap 1 - Creating repos => *COMPLETE*
+  Chap 2 - Tracking change => *COMPLETE*
+  Chap 3 - Branching => *COMPLETE*
+  Chap 4 - Summary => *COMPLETE*
+SECTION 3 - REMOTE REPOS
+  Chap 1 - Intro => *COMPLETE*
+  Chap 2 - Github => *COMPLETE*
+  Chap 3 - Passwords => *COMPLETE*
+SECTION 4 - CONCLUSION
+
+
+02/16/17-
+Launch School Intro to Programming - finished final section of exercises
+                                   - started Ruby Basics Exercises
+
+02/15/17-
+Launch School Intro to Programming - finished exercises in chap 9
+                                   - started final section of exercises covering entire book
+
+02/14/17-
+Launch School Intro to Programming - worked/coded through chap 9
+
+02/13/17-
+Launch School Intro to Programming - worked/coded through chap 8
+
+02/12/17
+"Up and Running with PowerShell 5" w/ Jason Helmick @Lynda.com
+
+
+02/11/17 - 02/12/17
+"Understanding PowerShell 5.0" w/ Matt Hester @ Lynda.com
+----- FINISHED => 02/12/17
+
+02/09/17 - 02/11/17
+Worked through LS "Intro to the Command Line" - second pass, coded all examples using Cloud9
+SECTION 1 - INTRO & PREP => *COMPLETE*
+SECTION 2 - INTRO TO THE COMMAND LINE
+  Chap 1 - The command line interface => *COMPLETE*
+  Chap 2 - Files, directories & executables => *COMPLETE*
+  Chap 3 - The environment => *COMPLETE*
+  chap 4 - Permissions => *COMPLETE*
+  chap 5 - Other interfaces =>*COMPLETE*

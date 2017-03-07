@@ -1,0 +1,32 @@
+
+1  INTRO- complete
+2  NOTE TO WINDOWS USERS- complete
+3  CLOUD BASED DEV ENVIRONMENT-complete
+4  BOOK: INTRO TO COMMAND LINE- complete 02/11/17
+5  BOOK: GIT AND GITHUB- complete 02/17/17
+6  INSTALL RUBY- complete
+7  SELECT AN EDITOR- complete
+8  SET YOUR EDITOR INDENTION- complete
+9  TERMINAL VS IRB- complete
+10 RUBY STYLE-
+11 CODECADEMY: RUBY TRACK
+12 BOOK: LEARN TO PROGRAM
+13 BOOK: INTRO TO PROGRAMMING
+14 RUBY VERSION MANAGER
+15 FEEDBACK ON BOOKS
+16 EXERCISES: RUBY BASICS
+    Reading Documentation 1- 02/17/17
+    Reading Documentation 2- 02/17/17
+    Variable Scope- 02/18/17
+    Loops 1- 02/18/17, 03/01/17
+    Loops 2- 02/19/17, 03/02/17
+    User Input- 03/01/17
+    Methods- 03/03/17
+    Return- 03/03/17
+    Conditionals- 03/04/17
+    Strings-
+    Arrays-
+    Hashes-
+17 VIDEO: ORIENTATION
+18 FINAL CHECKLIST
+19 ASSESSMENT
