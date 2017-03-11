@@ -1,4 +1,18 @@
 
+
+03/11/17
+
+03/10/17- Reviewing Ruby Docs Array class
+
+03/09/10- Reviewing Ruby Docs Array class
+
+03/08/17- Finished Ruby Basics
+
+03/07/17- Started Ruby Basics Section 11 Arrays
+CSS-Missing Manual Chap 13 "Building Float Based Layouts"
+
+03/06/17-CSS-Missing Manual Chap 12 "CSS Layout"
+
 03/05/17- Ruby Basics-section 10 Strings
 Shay How- Lesson 10,11 and 12
 

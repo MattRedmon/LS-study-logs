@@ -24,7 +24,7 @@
     Methods- 03/03/17
     Return- 03/03/17
     Conditionals- 03/04/17
-    Strings-
+    Strings- 03/05/17
     Arrays-
     Hashes-
 17 VIDEO: ORIENTATION
