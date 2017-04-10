@@ -1,6 +1,24 @@
 
 
-03/11/17
+04/09/17- READ Well Grounded Rubyist- chap 4
+          READ Well Grounded Rubyist- chap 5
+          @LYNDA- watched "Ruby On Rail V 5" section 1,2,3
+
+04/08/17- READ Well Grounded Rubyist- chap 2
+          READ Well Grounded Rubyist- chap 3
+          @LYNDA- watched "Installing and Running Ruby on Rails 5"
+                  included installing Ruby, DevKit, Rails, MySQL
+
+03/22/17- Programming Ruby: chap "Ruby.new"
+
+
+
+
+03/13/17- Reviewing Ruby Docs Array class
+
+03/12/17- worked problems "Learn to Program by Chris Pine"
+
+03/11/17- Reviewing Ruby Docs Array class
 
 03/10/17- Reviewing Ruby Docs Array class
 
@@ -46,7 +64,7 @@ Shay Howe-Lesson 6
   Chap 6 More about methods - COMPLETE
   Chap 7 Flow control - COMPLETE
   Chap 8 Arrays and Iterators- COMPLETE
-  Chap 9 Writing you own methods -
+  Chap 9 Writing you own methods - COMPLETE
   Chap 10 Nothing new to learn -
   Chap 11 Reading and Writing -
   Chap 12 New Classes of Objects -

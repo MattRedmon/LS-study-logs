@@ -25,8 +25,8 @@
     Return- 03/03/17
     Conditionals- 03/04/17
     Strings- 03/05/17
-    Arrays-
-    Hashes-
+    Arrays- 03/07/17
+    Hashes- 03/08/17
 17 VIDEO: ORIENTATION
 18 FINAL CHECKLIST
 19 ASSESSMENT
